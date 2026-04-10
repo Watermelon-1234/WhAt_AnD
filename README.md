@@ -1,4 +1,3 @@
-# WhAt_AnD
 # WhAt_AnD (What are you doing right now?)
 
 **WhAt_AnD** is a minimalist, cross-platform focus tracking tool. It periodically pops up an always-on-top window to ask, "What are you doing right now?" By creating these micro-interruptions, it helps you pull your attention back, avoid distractions, and keep a log of your work trajectory.
