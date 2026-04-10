@@ -1,0 +1,9 @@
+{
+    "theme": "light",
+    "language": "en",
+    "volume": 50,
+    "autostart": false,
+    "log_path": "/Users/idoit_melon/development/WhAt_AnD/Logs",
+    "log_level": "INFO",
+    "session_dir": "/Users/idoit_melon/development/WhAt_AnD/Sessions/"
+}
